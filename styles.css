@@ -1,0 +1,52 @@
+h1 {
+  color: rgb(210, 9, 250);
+  font-size: 20px;
+  margin-left: 45px;
+  margin-top: 10px;
+}
+ul {
+  list-style: none;
+}
+.today {
+  color: rgb(210, 9, 250);
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 20px;
+}
+.maintemp {
+  color: rgb(210, 9, 250);
+  font-size: 100px;
+  font-weight: bold;
+  line-height: 80px;
+}
+.city {
+  color: rgb(210, 9, 250);
+  font-size: 40px;
+  font-weight: bold;
+}
+.description {
+  margin-top: 40px;
+  color: rgba(4, 4, 151, 0.589);
+}
+.containor {
+  border: 5px solid purple;
+  margin: 10px auto;
+  padding: 15px;
+  max-width: 750px;
+  border-radius: 10px;
+}
+.containor2 {
+  border: 5px solid purple;
+  margin: 10px auto;
+  padding: 15px;
+  max-width: 750px;
+  border-radius: 10px;
+}
+.table {
+  text-align: center;
+  margin-left: 80px;
+  color: green;
+}
+.temp {
+  font-weight: bold;
+}
